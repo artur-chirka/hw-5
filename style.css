@@ -32,8 +32,8 @@
 input {
     display: flex;
     margin: 0 auto 0 50px;
-    width: 350px;
-    height: 130px;
+    width: 150px;
+    height: 150px;
     padding: 50px;
-    border-radius: 50%;
+    border-radius: 100%;
 }
